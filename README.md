@@ -27,15 +27,15 @@ VI) com o auxílio do **mapa de calor**, observa-se que a correlação é maior 
     </tr>
     <tr>
         <th>TV</th>
-        <td>90%</td>
+        <td>0.90</td>
     </tr>
     <tr>
          <th>Rádio</th>
-        <td>35%</td>
+        <td>0.35</td>
     </tr>
     <tr>
         <th>Jornal</th>
-        <td>16%</td>
+        <td>0.16</td>
 </table>
 VII) separação dos dados em treino e teste, sendo 70% de treino para os modelos aprenderem e 30% de teste para testar se o modelo aprendeu corretamente<br/>
 XI) por se tratar de um **desafio de regressão**, uma vez que os de valores de venda são contínuos, os modelos selecionados para o teste foram:  LinearRegression, RandomForestRegressor, KNeighborsRegressor e GradientBoostingRegressor<br/>
