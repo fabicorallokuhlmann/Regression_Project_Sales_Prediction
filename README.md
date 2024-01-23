@@ -1,6 +1,6 @@
 # Sales Prediction (Regression Project)
 
-Projeto criado com o objetivo de **desenvolver um modelo de predição de vendas que relacione estas com o valor investido em propaganda nas três principais frentes de meio de comunicação** que a empresa investe em um determinado período: TV, Jornal e Rádio, visando o ajuste de tais valores para uma melhor performance. <br/>
+Projeto criado com o objetivo de **desenvolver um modelo de previsão de vendas que relacione estas com o valor investido em propaganda nas três principais frentes de meio de comunicação** que a empresa investe em um determinado período: TV, Jornal e Rádio, visando o ajuste de tais valores para uma melhor performance. <br/>
 
 Para tanto, os seguintes passos listados abaixo foram adotados:
 <br/>
